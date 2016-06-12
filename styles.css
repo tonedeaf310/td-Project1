@@ -116,7 +116,7 @@ ul.skills {
   margin: 2px;
 }
 
-.skills li:nth-child(odd) {
+.skills li:nth-child(even) {
   background: #0399ff;
 }
 
